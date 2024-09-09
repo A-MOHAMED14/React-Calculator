@@ -8,6 +8,12 @@ This is a simple calculator built using React and Vite, featuring a component-ba
 
 The user interface includes a "Delete" (DEL) button for removing the last character and an "All Clear" (AC) button to reset the calculator. The application is responsive and works seamlessly across different screen sizes, making it accessible on both desktop and mobile devices.
 
+## 🎥 Video Walkthrough
+
+The following video demonstrates the application functionality:
+
+[![Watch the video](./calculator/public/demo-thumbnail.png)](https://drive.google.com/file/d/1Pr1NNhKvb6wxtG5xknrwsyhO-ys2a3YX/view)
+
 ## 🚀 Installation
 
 1. Clone the Repository:
