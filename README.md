@@ -8,6 +8,14 @@ This is a simple calculator built using React and Vite, featuring a component-ba
 
 The user interface includes a "Delete" (DEL) button for removing the last character and an "All Clear" (AC) button to reset the calculator. The application is responsive and works seamlessly across different screen sizes, making it accessible on both desktop and mobile devices.
 
+- [🎥 Video Walkthrough ](#🎥-video-walkthrough)
+- [🚀Installation ](#🚀-installation)
+- [🏗️ Usage](#🏗️-usage)
+- [⚒️ Technologies Used](#⚒️-technologies-used)
+- [🤝 Contributing ](#🤝-contributing)
+- [📄 License ](#📄-license)
+- [❓ Questions ](#❓-questions)
+
 ## 🎥 Video Walkthrough
 
 The following video demonstrates the application functionality:
@@ -84,7 +92,7 @@ git push origin feature/your-feature-name
 
 This project is licensed under the MIT License. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, provided that the original copyright notice and permission notice are included in all copies or substantial portions of the software. For more details, see the MIT [LICENSE](https://opensource.org/licenses/MIT) file.
 
-## Questions ❓
+## ❓ Questions
 
 If you have any questions about the project, please feel free to contact me directly:
 
