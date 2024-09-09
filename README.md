@@ -6,4 +6,22 @@ This is a simple calculator built using React and Vite, featuring a component-ba
 
 The user interface includes a "Delete" (DEL) button for removing the last character and an "All Clear" (AC) button to reset the calculator. The application is responsive and works seamlessly across different screen sizes, making it accessible on both desktop and mobile devices.
 
+## 🚀 Installation
 
+1. Clone the Repository:
+
+```sh
+git clone https://github.com/A-MOHAMED14/React-Calculator.git
+```
+
+2. Navigate to the Project Directory:
+
+```sh
+cd React-Calculator
+```
+
+3. Install dependencies:
+
+```sh
+npm install
+```
