@@ -38,3 +38,11 @@ npm run dev
 
 - Use npm run dev for development, which starts the app in development mode with Vite's fast refresh using HMR.
 - Use npm run build to create a production build.
+
+## ⚒️ Technologies Used
+
+- React: For building the user interface with a component-based architecture.
+- Vite: For fast development and optimized bundling.
+- JavaScript (ES6+): The programming language used for app logic and interactivity.
+- HTML & CSS: For structuring and styling the calculator layout.
+- useState Hook: For managing input and result states in React.
