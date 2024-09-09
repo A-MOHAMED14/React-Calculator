@@ -1,5 +1,7 @@
 # React Calculator
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ## Description
 
 This is a simple calculator built using React and Vite, featuring a component-based structure for easy maintenance and scalability. It is designed to perform basic arithmetic operations like addition, subtraction, multiplication, and division. The application allows users to input numbers and operators via an intuitive button interface. The project uses React's useState hook to manage input and result states, ensuring real-time updates with every button click. The eval() function is used (with basic error handling) to calculate the result of mathematical expressions.
@@ -71,3 +73,7 @@ git push origin feature/your-feature-name
 ```
 
 5. Open a pull request to the main repository, describing your changes in detail.
+
+## 📄 License
+
+This project is licensed under the MIT License. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, provided that the original copyright notice and permission notice are included in all copies or substantial portions of the software. For more details, see the MIT [LICENSE](https://opensource.org/licenses/MIT) file.
